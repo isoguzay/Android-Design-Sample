@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Android Design Sample</string>
+    <string name="app_name">Android Tasarım Çalışması</string>
     <string name="title_activity_relative">RelativeActivity</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Parola</string>
+    <string name="login">Giriş</string>
+    <string name="help">Yardım</string>
 </resources>

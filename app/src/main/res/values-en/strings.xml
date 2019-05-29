@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Design Sample</string>
+    <string name="title_activity_relative">RelativeActivity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="help">Help</string>
+</resources>
