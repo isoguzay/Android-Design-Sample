@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Android Examples</string>
+    <string name="app_name">Android Design Sample</string>
+    <string name="title_activity_relative">RelativeActivity</string>
 </resources>
